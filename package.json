@@ -1,0 +1,17 @@
+{
+    "name": "scaffold-collection",
+    "version": "1.0.0",
+    "description": "the collection of scaffolds used for projects, based on open-sourced frameworks",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MonkingStand/scaffold-collection.git"
+    },
+    "keywords": [
+        "scaffold",
+        "nodejs",
+        "front-end"
+    ],
+    "author": "Stan",
+    "license": "MIT",
+    "homepage": "https://github.com/MonkingStand/scaffold-collection#readme"
+}
